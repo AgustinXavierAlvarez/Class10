@@ -13,5 +13,5 @@ Hacer commits con el progreso y subir todos los cambios siempre verificando que 
 Responder a la Problemática Semanal 05 de Classroom con el link de Github de archivo html creado para el formulario de suscripción. 
 -->
 
-#Se agrego estilos al formulario, tambien validaciones de manera dinamica, con JS.
-# URL de la git hub pages : https://agustinxavieralvarez.github.io/Class10
+#Se agrego funciones al formulario, se agrego modal que muestrea los datos hecho con JS.
+# URL de la git hub pages : https://agustinxavieralvarez.github.io/Class10/
